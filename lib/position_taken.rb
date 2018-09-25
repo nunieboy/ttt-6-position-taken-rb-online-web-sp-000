@@ -5,4 +5,5 @@ def position_taken(position)
     puts "position already taken"
   else
     board[position] = "X"
+  end
 end
